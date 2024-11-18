@@ -85,4 +85,6 @@ omit [Fintype Agents] [Fintype Goods] [DecidableEq Agents] in
 lemma EF_implies_EF1 :
   EF alloc → EF1 alloc:= by
   solve_by_elim [EF_implies_EFX, EFX_implies_EF1]
+
+
 end DiscreteFairDivision

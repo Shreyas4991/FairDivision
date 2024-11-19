@@ -14,4 +14,4 @@ A moonshot goal is to accumulate enough results to prove or disprove the existen
 
 
 ### References
-- [] Amanatidis, Georgios, Haris Aziz, Georgios Birmpas, Aris Filos-Ratsikas, Bo Li, Hervé Moulin, Alexandros A. Voudouris, and Xiaowei Wu. "Fair Division of Indivisible Goods: Recent Progress and Open Questions." arXiv preprint arXiv:2208.08782 (2022).
+- Amanatidis, Georgios, Haris Aziz, Georgios Birmpas, Aris Filos-Ratsikas, Bo Li, Hervé Moulin, Alexandros A. Voudouris, and Xiaowei Wu. "Fair Division of Indivisible Goods: Recent Progress and Open Questions." arXiv preprint arXiv:2208.08782 (2022).
